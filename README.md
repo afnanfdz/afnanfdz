@@ -8,6 +8,8 @@ I'm Afnan! Most folks call me that in real life, so you may too. Online, I'm kno
 
 Bear with me! I have a lot to learn, and there's so much I want to do.
 
+My preferred way of being contacted is just by [email](afnanfdz@gmail.com).
+
 <hr>
 
 **Formally Studying:** (as in, most of my projects probably will revolve around at least one of these)
