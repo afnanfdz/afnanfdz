@@ -18,7 +18,7 @@ My preferred way of being contacted is just by [email](afnanfdz@gmail.com).
  - Data Science (certificate, under Statistics)
 
 **Self-learning:** (as in, I have more than zero \[and slowly growing\] knowledge about these)
-  - Game development in Unreal Engine 4
+  - Game development in Godot
   - 3D-modelling & video editing in Blender
   - Bookdown in `R`
 
