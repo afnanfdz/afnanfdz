@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <hr>
 
-I'm Afnan! Most folks call me that in real life, so you may too. Online, I'm known as Vuc (formerly Vucirrha, but most have difficulty pronouncing that). I'm Malaysian, and I'm studying in the University of Illinois at Urbana-Champaign. My favorite Pokémon is Vulpix, and more generally, my favorite animal is the red fox!
+I'm Afnan! I'm Malaysian, and I'm studying in the University of Illinois at Urbana-Champaign. My favorite Pokémon is Vulpix, and more generally, my favorite animal is the fox!
 
 Bear with me! I have a lot to learn, and there's so much I want to do.
 
